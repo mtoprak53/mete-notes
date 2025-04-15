@@ -1,0 +1,53 @@
+
+~/.config/Code/User/settings.json
+
+
+
+npx create-next-app@latest mete-notes
+
+cd mete-notes/
+
+code .
+
+npm run dev
+
+
+sudo apt install imagemagick
+
+
+convert input.png -quality 85 output.png  {wrong one}
+convert input.png -resize 16x16 favicon.ico {right one}
+convert ../../Pictures/kurt.png -resize 16x16 favicon.ico  {what we use}
+
+npm i -D prettier prettier-plugin-tailwindcss
+
+
+npx shadcn@latest add button
+npx shadcn@latest add dropdown-menu
+npx shadcn@latest add card
+npx shadcn@latest add input label
+npx shadcn@latest add 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
