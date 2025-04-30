@@ -19,6 +19,15 @@ convert input.png -quality 85 output.png  {wrong one}
 convert input.png -resize 16x16 favicon.ico {right one}
 convert ../../Pictures/kurt.png -resize 16x16 favicon.ico  {what we use}
 
+
+
+convert ~/Pictures/youtube.png -resize 32x32 ~/Pictures/youtube_32x32.png
+convert ~/Pictures/github.png -resize 32x32 ~/Pictures/github_32x32.png
+
+
+
+
+
 npm i -D prettier prettier-plugin-tailwindcss
 
 
