@@ -49,6 +49,8 @@ convert ~/Pictures/github.png -resize 32x32 ~/Pictures/github_32x32.png
 
 npm i -D prettier prettier-plugin-tailwindcss
 npm i @prisma/client
+npm i uuid
+npm i fuse.js
 
 
 npx shadcn@latest add button
@@ -56,6 +58,7 @@ npx shadcn@latest add dropdown-menu
 npx shadcn@latest add card
 npx shadcn@latest add input label
 npx shadcn@latest add sidebar
+npx shadcn@latest add textarea
 npx shadcn@latest add 
 
 

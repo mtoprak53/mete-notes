@@ -1,5 +1,7 @@
 import { getUser } from "@/auth/server";
 import AskAIButton from "@/components/AskAIButton";
+import NewNoteButton from "@/components/NewNoteButton";
+import NoteTextInput from "@/components/NoteTextInput";
 import { prisma } from "@/db/prisma";
 
 type Props = {

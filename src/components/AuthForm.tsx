@@ -8,7 +8,7 @@ import { useTransition } from "react";
 import { Button } from "./ui/button";
 import { Loader2 } from "lucide-react";
 import Link from "next/link";
-import { toast } from "sonner"
+import { toast } from "sonner";
 import { start } from "repl";
 import { loginAction, signUpAction } from "@/actions/users";
 

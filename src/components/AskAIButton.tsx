@@ -3,11 +3,11 @@
 import { User } from "@supabase/supabase-js";
 
 type Props = {
-  user: User;
+  user: User | null;
 }
 
 function AskAIButton({ user }: Props) {
-  console.log(user.email);
+  console.log(user?.email);
 
   return (
     <div>AskAIButton</div>
