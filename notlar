@@ -59,6 +59,8 @@ npx shadcn@latest add card
 npx shadcn@latest add input label
 npx shadcn@latest add sidebar
 npx shadcn@latest add textarea
+npx shadcn@latest add alert-dialog
+npx shadcn@latest add dialog
 npx shadcn@latest add 
 
 
