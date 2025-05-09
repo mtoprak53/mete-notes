@@ -15,6 +15,7 @@ import { Fragment, useRef, useState, useTransition } from "react";
 import { Textarea } from "./ui/textarea";
 import { ArrowUpIcon } from "lucide-react";
 import { askAiAboutNotesAction } from "@/actions/notes";
+import "@/styles/ai-response.css";
  
 
 

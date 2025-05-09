@@ -51,6 +51,7 @@ npm i -D prettier prettier-plugin-tailwindcss
 npm i @prisma/client
 npm i uuid
 npm i fuse.js
+npm i openai
 
 
 npx shadcn@latest add button
